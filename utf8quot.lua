@@ -1,5 +1,5 @@
 
---`&name;` parser for utf-8 strings.
+--&name; parser for utf-8 strings.
 --Written by Cosmin Apreutesei. Public Domain.
 
 local u = {} --{name -> utf8-sequence}
